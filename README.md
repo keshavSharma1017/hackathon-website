@@ -46,7 +46,7 @@ A modern, responsive website for the H2S Innovation Hackathon featuring futurist
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/h2s-hackathon.git
+   git clone https://github.com/keshavSharma1017/hackathon-website
    ```
 
 2. **Navigate to the project directory**
